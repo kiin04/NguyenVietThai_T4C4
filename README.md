@@ -8,7 +8,7 @@ Web Developer and Design
 * 🌍  I'm based in Ho Chi Minh City
 * ✉️  You can contact me at [vietthai280904@gmail.com](mailto:vietthai280904@gmail.com)
 
-### My projects run on skills
+### My projects use 
 
 
 <p align="left">
