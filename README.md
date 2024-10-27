@@ -19,7 +19,7 @@ Web Developer and Design
 const thai = {
   pronouns: "he" | "him",
   code: [Javascript,  HTML, CSS, ],
-  tools: [React, Redux,  Styled-Components],
+  tools: [React, Redux,  Styled-Components, Vite],
 
 }
 ```
