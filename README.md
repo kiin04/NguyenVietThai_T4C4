@@ -8,7 +8,7 @@ I'm a Web Developer and Design
 * 🌍  I'm based in Ho Chi Minh City
 * ✉️  You can contact me at [vietthai280904@gmail.com](mailto:vietthai280904@gmail.com)
 
-# The project of group is SalePhoneOnline
+# 🚀 The project of group is SalePhoneOnline
 
 ## Description
 Create an e-commerce website for purchasing mobile phones.
