@@ -11,6 +11,15 @@ Web Developer and Design
 # My Project Name is SalePhoneOnline
 
 ## Description
+Create an e-commerce website for purchasing mobile phones.
+Key Features:
+
+User Interface: Homepage with latest phones, categories, and search functionality.
+Product Details: Pages with images, specs, prices, and reviews.
+Shopping Cart: Add/remove items and calculate totals.
+Checkout: Online payment options and email confirmations.
+User Accounts: Registration, login, and order tracking.
+Admin Panel: Manage products, orders, and user accounts.
 
 ### My projects use 
 
