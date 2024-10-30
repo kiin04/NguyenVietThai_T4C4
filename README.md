@@ -70,10 +70,7 @@ const thai = {
     </picture> 
   </a>
   
-  <a href="https://www.huflit.edu.vn/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_Huflit.svg/1024px-Logo_Huflit.svg.png" width="32" height="32" alt="Huflit Logo" /> 
-  </a>
-</p>
+ 
 
 
 
