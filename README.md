@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 ============================================================================================================================
 
-Web Developer and Design
+I'm a Web Developer and Design
 ------------------------
 
 * 🌍  I'm based in Ho Chi Minh City
